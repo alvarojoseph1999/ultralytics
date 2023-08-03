@@ -1,0 +1,8 @@
+train: C:\Users\alvar\yolov8\ultralytics\train
+val: C:\Users\alvar\yolov8\ultralytics\val
+
+nc: 3
+
+names: ["harbor","plane","ship"]
+
+
